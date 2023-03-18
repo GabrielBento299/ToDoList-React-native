@@ -1,9 +1,11 @@
 <h1>TODO LIST</h1>
 
-<p> Projeto de um todolist, criado com react native, typescript, styled-components,asyncstorage</p>
-<p>A aplicaçãp realiza inserção de tarefas, onde é possivel clicar se essa tarefa estiver completada, não é possivel adicionar a mesma tarefa com mesmo titulo,
-é possivel deletar a tarefa.</p>
-<span> Ultilizado  o localstorage para guardar as informações. </span>
+<h4>Projeto de um todolist, criado com react native, ultilizando typescript, styled-components e asyncstorage para guaradas as informações salvas e alteradas</h4>
+
+## Funcionalidades
+- Criar tarefas
+- Excluir tarefas
+- Marcar tarefas como concluídas
 
 Link do figma com layout do projeto https://www.figma.com/file/oBuBL52FFb2oGv2un9HP5L/ToDo-List-(Copy)?node-id=401-618&t=fzbW89qW25ze8PKI-0
 
