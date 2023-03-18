@@ -19,8 +19,8 @@ export const ButtonActions = styled.View`
 `;
 
 export const ButtonToggle = styled.TouchableOpacity`
-
-
+    max-width: 20px;
+    min-width: 20px;
 `;
 
 export const Image = styled.Image`
