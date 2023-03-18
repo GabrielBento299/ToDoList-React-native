@@ -7,7 +7,9 @@
 - Excluir tarefas
 - Marcar tarefas como concluídas
 
-Link do figma com layout do projeto https://www.figma.com/file/oBuBL52FFb2oGv2un9HP5L/ToDo-List-(Copy)?node-id=401-618&t=fzbW89qW25ze8PKI-0
+Link do figma com layout do projeto 
+
+<a target="__blank" href="https://www.figma.com/file/oBuBL52FFb2oGv2un9HP5L/ToDo-List-(Copy)?node-id=401-618&t=fzbW89qW25ze8PKI-0"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
 
 ![Screenshot_1679149993](https://user-images.githubusercontent.com/86307663/226112708-4ba4a123-ba1f-4a35-b96c-f5e0c2b7f2a8.png)
 
